@@ -43,7 +43,15 @@ Compared to conventional designs, the results have been **enhanced by 19%** in t
 - **Gain:** ~ −0.75 dB to 5 dB, with expected dips at notch frequencies.  
 - **Radiation Patterns:**  
   - Directional in E-plane.  
-  - Quasi-omnidirectional in H-plane.  
+  - Quasi-omnidirectional in H-plane.
+    
+<img width="1920" height="986" alt="image" src="https://github.com/user-attachments/assets/13d17fdd-9252-42d7-ad0a-1618e32b53b2" />
+<img width="1540" height="782" alt="image" src="https://github.com/user-attachments/assets/0fd86fb6-fbba-4148-9909-e801f5fe1663" />
+<img width="1515" height="769" alt="image" src="https://github.com/user-attachments/assets/c01a1c86-21ff-4416-8e08-703d58abb505" />
+<img width="1534" height="777" alt="image" src="https://github.com/user-attachments/assets/b4f54187-24c0-4775-bfcb-40ca9945650a" />
+
+
+
 
 ---
 
